@@ -1,0 +1,21 @@
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ChromaDB
+chroma_db/
+
+# Uploaded files
+uploads/*
+
+# API keys
+.env
+.env.*
+
+# Internship testing code
+banking.py
